@@ -1,0 +1,122 @@
+text,category
+I was charged twice,billing
+Payment failed,billing
+Refund not received,billing
+Card payment unsuccessful,billing
+Money deducted but order not confirmed,billing
+Subscription renewal issue,billing
+Incorrect bill amount,billing
+Unable to process transaction,billing
+Refund taking too long,billing
+Double payment detected,billing
+Billing information incorrect,billing
+Invoice not received,billing
+Tax amount incorrect,billing
+Promo code not applied,billing
+Charged after cancellation,billing
+Payment method declined,billing
+Bill due date confusion,billing
+Charged wrong amount,billing
+Payment not reflecting,billing
+Unable to pay with card,billing
+Invoice shows wrong date,billing
+Promo code not working,billing
+Tax calculation is wrong,billing
+Payment gateway error,billing
+Auto-renewal charged unexpectedly,billing
+Bank transfer not received,billing
+Cashback not credited,billing
+Wallet balance incorrect,billing
+EMI deduction failed,billing
+Coupon discount not applied,billing
+Duplicate invoice generated,billing
+Refund status not updated,billing
+Cannot update billing address,billing
+Subscription charge after cancellation,billing
+Wrong currency charged,billing
+Partial refund received,billing
+Payment confirmation not received,billing
+Credit card charge disputed,billing
+Annual plan charged monthly,billing
+Free trial ended but still charged,billing
+Transaction declined repeatedly,billing
+App is crashing,technical
+Login not working,technical
+Website is slow,technical
+Application freezes frequently,technical
+Server connection failed,technical
+Unable to upload files,technical
+App not responding after update,technical
+Page takes too long to load,technical
+Error message appears on startup,technical
+Cannot connect to the server,technical
+Microphone feature not working,technical
+Audio is not working,technical
+Camera feature crashes,technical
+Unable to install update,technical
+Screen freezes during login,technical
+Notifications are delayed,technical
+App closes automatically,technical
+Unable to sync data,technical
+Search function is broken,technical
+Video playback not working,technical
+System shows unknown error,technical
+Unable to connect to WiFi,technical
+Upload keeps failing,technical
+Application hangs frequently,technical
+Server timeout issue,technical
+Unable to download files,technical
+Dark mode not working,technical
+Push notifications not received,technical
+Two factor authentication not working,technical
+App crashes on launch,technical
+Bluetooth not connecting,technical
+Location feature not working,technical
+Data not loading on dashboard,technical
+Profile picture not uploading,technical
+Password reset link not working,technical
+App drains battery quickly,technical
+Screen goes blank randomly,technical
+Cannot open attachments,technical
+Map feature not loading,technical
+Keyboard not appearing in app,technical
+How to reset password,general
+How to change email,general
+Need help with account,general
+Need help updating profile,general
+How can I contact customer support,general
+Where can I change my password,general
+Need information about subscription plans,general
+How to delete my account,general
+How to update account settings,general
+Need guidance using the application,general
+Where can I view my purchase history,general
+How do I cancel my subscription,general
+What are your business hours,general
+How do I upgrade my plan,general
+Can I transfer my account,general
+How do I enable notifications,general
+Where can I see my order history,general
+How to change my phone number,general
+Can I have multiple accounts,general
+How to provide feedback,general
+Where can I find terms of service,general
+How to log out of all devices,general
+How to set up two factor authentication,general
+Can I change my username,general
+How do I refer a friend,general
+Where can I download the app,general
+How do I update my profile picture,general
+Where can I find my invoice history,general
+How do I change my language settings,general
+Can I use the app on multiple devices,general
+How do I unsubscribe from emails,general
+Where can I find the user manual,general
+How to merge two accounts,general
+How do I add a secondary email,general
+How to change notification preferences,general
+What documents are needed for verification,general
+How do I deactivate my account temporarily,general
+Where can I find my referral code,general
+How to link my social media account,general
+Can I change my registered email address,general
